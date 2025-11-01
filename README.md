@@ -6,6 +6,12 @@ It automates **image texture node creation** and **diffuse baking** for the sele
 
 ---
 
+## 🖼️ Preview
+![Quick Texture Baker Demo](./preview.gif)
+*(Example: Baking a texture in seconds using the Quick Texture Baker panel)*
+
+---
+
 ## ✨ Features
 
 - 🖼️ **Create Image Texture Nodes** — Instantly create a new texture node and assign a 1024×1024 image.
