@@ -24,7 +24,7 @@ It automates **image texture node creation** and **diffuse baking** for the sele
 
 ## 🧩 Installation (In Blender)
 1. Click this button to download the add-on ZIP:  
-   [![Download Add-on](https://img.shields.io/badge/⬇️%20Download%20Addon-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/<your-username>/Quick-Texture-Baker/releases/latest/download/Quick-Texture-Baker.zip)
+   [![Download Add-on](https://img.shields.io/badge/⬇️%20Download%20Addon-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/Sudhanshu-Ambastha/Quick-Texture-Baker/releases/download/V-1/QUICK-TEXTURE-BAKER.zip)
 
 2. Go to **Edit → Preferences → Add-ons → Install**  
 3. Select the downloaded **`.zip` file** or the **add-on folder**  
